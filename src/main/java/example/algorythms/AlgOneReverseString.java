@@ -1,5 +1,4 @@
 package example.algorythms;
-
 public class AlgOneReverseString {
     public static void main(String[] args) {
         String origin = "abc";
