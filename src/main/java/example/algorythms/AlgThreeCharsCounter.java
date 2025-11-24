@@ -1,5 +1,4 @@
 package example.algorythms;
-
 import java.util.HashMap;
 import java.util.Map;
 
